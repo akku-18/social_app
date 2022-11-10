@@ -59,7 +59,6 @@ export const Users=[
 export const Posts = [
     {
         id: 1,
-        desc: "Love for all, hatred for one.",
         photo: "assests/post/1.jpeg",
         date: "5 min ago",
         userId: 1,
@@ -68,6 +67,7 @@ export const Posts = [
     },
     {
         id: 2,
+        desc: "I am better alone",
         photo: "assests/post/2.jpeg",
         date: "15 min ago",
         userId: 2,
@@ -76,6 +76,7 @@ export const Posts = [
     },
     {
         id: 3,
+        desc: "Love for all, hatred for one.",
         photo: "assests/post/3.jpeg",
         date: "10 min ago",
         userId: 3,
@@ -84,6 +85,7 @@ export const Posts = [
     },
     {
         id: 4,
+        desc: "My life is just like this-splitted in half",
         photo: "assests/post/4.jpeg",
         date: "9 min ago",
         userId: 4,
@@ -92,6 +94,7 @@ export const Posts = [
     },
     {
         id: 5,
+        desc: "My work is everything",
         photo: "assests/post/5.jpeg",
         date: "90 min ago",
         userId: 5,
@@ -100,6 +103,7 @@ export const Posts = [
     },
     {
         id: 6,
+        desc: "curiosity",
         photo: "assests/post/6.jpeg",
         date: "88 min ago",
         userId: 6,
@@ -111,11 +115,12 @@ export const Posts = [
         photo: "assests/post/7.jpeg",
         date: "55 min ago",
         userId: 7,
-        like: 0,
+        like: 28,
         comment: 99,
     },
     {
         id: 8,
+        desc:"Heaven :)",
         photo: "assests/post/8.jpeg",
         date: "50 min ago",
         userId: 8,
